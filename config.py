@@ -1,1 +1,1 @@
-BOT_TOKEN = '1541736196:AAFog2MgVwudh_E4Dr0yEvhUkFfDkDs8opU' # Your bot token
+BOT_TOKEN = '' # Your bot token
