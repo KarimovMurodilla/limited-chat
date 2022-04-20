@@ -12,7 +12,7 @@ from aiogram.dispatcher import filters
 
 from loader import bot, dp, db
 
-GROUP_ID = -1001175586311  # Ваш ID группы
+GROUP_ID = -12332111  # Ваш ID группы
 
 SPAM_TXT = [
     'ООО', 'НДС', 'https://', 'http://', 't.me/', 'Фальш', 'Гарант скам', 'Гарант кидок', 
